@@ -1,4 +1,4 @@
-var countDownFrom(n) {
+var countDownFrom = function(n) {
     if (n === 0) {
         return;
     }
